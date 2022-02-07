@@ -1,5 +1,4 @@
 ## 常见题
-
 ### 字符串
 * [14.最长公共前缀](https://github.com/funny741643/lc-challenge/blob/main/14.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.js)
 * [344.反转字符串](https://github.com/funny741643/lc-challenge/blob/main/344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
@@ -10,8 +9,22 @@
 * [209.长度最小的子数组](https://github.com/funny741643/lc-challenge/blob/main/209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.js)
 * [26.删除有序数组中的重复项](https://github.com/funny741643/lc-challenge/blob/main/26.%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.js)
 * [674.最长连续递增序列](https://github.com/funny741643/lc-challenge/blob/main/674.%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.js)
+### 栈
+* [946.验证栈序列](https://github.com/funny741643/lc-challenge/blob/main/946.%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.js)
+* [20.有效的括号](https://github.com/funny741643/lc-challenge/blob/main/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.js)
+* [1190.反转每对括号间的子串](https://github.com/funny741643/lc-challenge/blob/main/1190.%E5%8F%8D%E8%BD%AC%E6%AF%8F%E5%AF%B9%E6%8B%AC%E5%8F%B7%E9%97%B4%E7%9A%84%E5%AD%90%E4%B8%B2.js)
 ### 链表
 * [206.反转链表](https://github.com/funny741643/lc-challenge/blob/main/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
 * [234.回文链表](https://github.com/funny741643/lc-challenge/blob/main/234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.js)
 * [21.合并两个有序链表](https://github.com/funny741643/lc-challenge/blob/main/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
 * [141.环形链表](https://github.com/funny741643/lc-challenge/blob/main/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
+### 二叉树
+* [111.二叉树的最小深度](https://github.com/funny741643/lc-challenge/blob/main/111.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.js)
+* [257.二叉树的所有路径](https://github.com/funny741643/lc-challenge/blob/main/257.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.js)
+* [700.二叉搜索树中的搜索](https://github.com/funny741643/lc-challenge/blob/main/700.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2.js)
+* [100.相同的树](https://github.com/funny741643/lc-challenge/blob/main/100.%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.js)
+### 递归回溯
+* [46.全排列](https://github.com/funny741643/lc-challenge/blob/main/46.%E5%85%A8%E6%8E%92%E5%88%97.js)
+* [47.全排列-ii](https://github.com/funny741643/lc-challenge/blob/main/47.%E5%85%A8%E6%8E%92%E5%88%97-ii.js)
+* [78.子集](https://github.com/funny741643/lc-challenge/blob/main/78.%E5%AD%90%E9%9B%86.js)
+* [90.子集-ii](https://github.com/funny741643/lc-challenge/blob/main/90.%E5%AD%90%E9%9B%86-ii.js)
